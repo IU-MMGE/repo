@@ -5,3 +5,11 @@ Imports: dplyr, oncore2, yaml, mmge, xlsx, stringr, mmgeProtocols
 Suggests: testthat, knitr, rmarkdown
 MD5sum: 9c8fbb908770ce7741ff699d5f808f9c
 NeedsCompilation: no
+
+Package: mmgeInventory
+Version: 0.0.22
+Depends: R (>= 3.4.1)
+Imports: dplyr, oncore2, yaml, mmge, xlsx, stringr, mmgeProtocols
+Suggests: testthat, knitr, rmarkdown
+MD5sum: 30a1b815e531d1894f03a36c1b68a3ae
+NeedsCompilation: no
