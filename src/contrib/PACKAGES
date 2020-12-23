@@ -10,5 +10,5 @@ Package: mmgeProtocols
 Version: 0.1.24
 Imports: yaml
 Suggests: testthat
-MD5sum: 65077c9b18acaf44856a9f457711d040
+MD5sum: 8fc75e2a72bee29bcd9c2930a117e08a
 NeedsCompilation: no
