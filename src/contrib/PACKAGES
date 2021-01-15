@@ -14,7 +14,7 @@ MD5sum: 8fc75e2a72bee29bcd9c2930a117e08a
 NeedsCompilation: no
 
 Package: mmgeRepo
-Version: 0.4.20
+Version: 0.4.21
 Imports: drat, yaml, git2r, htmlTable
-MD5sum: 9057ed2e9d5cf119bd67ecd0b5e49f14
+MD5sum: c50395e91096c53b240234de6477feeb
 NeedsCompilation: no
