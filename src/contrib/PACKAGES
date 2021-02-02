@@ -8,6 +8,15 @@ Suggests: knitr, rmarkdown
 MD5sum: e918bf3b31f83be30ee71c95b02970d3
 NeedsCompilation: no
 
+Package: mmgeDistributions
+Version: 0.2.393
+Imports: R6, dplyr, openxlsx, yaml, tidyr, glue, memoise, magrittr,
+        future
+Suggests: knitr, rmarkdown
+License: GPL-3
+MD5sum: b42727f0115d9e5142ebcaed51dae85f
+NeedsCompilation: no
+
 Package: mmgeInventory
 Version: 0.0.22
 Depends: R (>= 3.4.1)
