@@ -1,11 +1,11 @@
 Package: mmgeCatalogs
-Version: 2.6.0
+Version: 2.6.1
 Imports: IUGBAPI, mmgeCatalogsLite, mmge, mmgeLDAP, mmgeMongo, shiny,
         shinydashboard, shinyBS2, DT, oncore2, yaml, dplyr, data.table,
         lubridate, markdown, plyr, mongolite, openxlsx, redcapAPI,
         crayon, clisymbols, debugR
 Suggests: knitr, rmarkdown
-MD5sum: 6a3558981debba1635155e06325e01b9
+MD5sum: f73eb4add0f0b4cc7ea1feeebf797e60
 NeedsCompilation: no
 
 Package: mmgeDistributions
