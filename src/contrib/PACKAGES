@@ -37,3 +37,12 @@ Version: 0.4.24
 Imports: drat, yaml, git2r, htmlTable
 MD5sum: cf2d42c02e6925a6e031820dca5e90cc
 NeedsCompilation: no
+
+Package: oncore2
+Version: 15.4.83
+Depends: R (>= 2.10),
+Imports: DBI, odbc, magrittr, yaml, future, later, clisymbols, crayon,
+        rstudioapi
+Suggests: testthat
+MD5sum: 5b1af9b59c6d517524a7b49bb8af5a78
+NeedsCompilation: no
