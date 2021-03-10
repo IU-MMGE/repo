@@ -1,3 +1,10 @@
+Package: IUGBAPI
+Version: 0.1.14
+Imports: httr, jsonlite, base64enc, readr, xml2
+License: GPL-3
+MD5sum: 634aedbe903c039c6dd16373a41a2dad
+NeedsCompilation: no
+
 Package: mmgeCatalogs
 Version: 2.6.4
 Imports: IUGBAPI, mmgeCatalogsLite, mmge, mmgeLDAP, mmgeMongo, shiny,
