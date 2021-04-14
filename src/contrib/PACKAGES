@@ -15,6 +15,15 @@ Suggests: knitr, rmarkdown
 MD5sum: 6e65799bea8b2d35ea0d044b2c0c6f76
 NeedsCompilation: no
 
+Package: mmgeCatalogsLite
+Version: 1.3.9
+Imports: yaml, mmgeMongo, shiny, shinydashboard, DT, dplyr, lubridate,
+        shinyBS2, markdown, mongolite, git2r, base64enc, mmgeLDAP,
+        debugR, hashids, data.table
+Suggests: knitr, rmarkdown
+MD5sum: 7a334d5ea978637a7aa595bf4f6d0c10
+NeedsCompilation: no
+
 Package: mmgeDistributions
 Version: 0.2.393
 Imports: R6, dplyr, openxlsx, yaml, tidyr, glue, memoise, magrittr,
