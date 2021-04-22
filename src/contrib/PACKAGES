@@ -41,6 +41,12 @@ Suggests: testthat, knitr, rmarkdown
 MD5sum: 30a1b815e531d1894f03a36c1b68a3ae
 NeedsCompilation: no
 
+Package: mmgeMongo
+Version: 0.1.75
+Imports: mongolite, openssl
+MD5sum: 451c07ca853cfbeb564e85708bdb7abf
+NeedsCompilation: no
+
 Package: mmgeProtocols
 Version: 0.1.30
 Imports: yaml
