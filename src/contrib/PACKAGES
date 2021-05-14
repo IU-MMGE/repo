@@ -68,3 +68,11 @@ Imports: DBI, odbc, magrittr, yaml, future, later, clisymbols, crayon,
 Suggests: testthat
 MD5sum: 5b1af9b59c6d517524a7b49bb8af5a78
 NeedsCompilation: no
+
+Package: ppmiverse
+Version: 0.1.7
+Imports: shiny, shinydashboard, shinyWidgets, dplyr, DT, yaml,
+        mmgeMongo, mongolite, lubridate, mmgeLDAP, pymailr
+License: MIT
+MD5sum: 55ad8238356c861d792ec43045847643
+NeedsCompilation: no
