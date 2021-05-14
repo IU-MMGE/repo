@@ -70,9 +70,9 @@ MD5sum: 5b1af9b59c6d517524a7b49bb8af5a78
 NeedsCompilation: no
 
 Package: ppmiverse
-Version: 0.1.7
+Version: 0.2.0
 Imports: shiny, shinydashboard, shinyWidgets, dplyr, DT, yaml,
-        mmgeMongo, mongolite, lubridate, mmgeLDAP, pymailr
+        mmgeMongo, mongolite, lubridate, mmgeLDAP, pymailr, tidyr
 License: MIT
-MD5sum: c4a7dd2c1e5327eb9b78f9d81249b18c
+MD5sum: 0ce40dd9a3042349b15a7c13b5f8c0d0
 NeedsCompilation: no
