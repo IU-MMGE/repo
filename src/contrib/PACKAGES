@@ -74,5 +74,5 @@ Version: 0.2.0
 Imports: shiny, shinydashboard, shinyWidgets, dplyr, DT, yaml,
         mmgeMongo, mongolite, lubridate, mmgeLDAP, pymailr, tidyr
 License: MIT
-MD5sum: 0ce40dd9a3042349b15a7c13b5f8c0d0
+MD5sum: d96de806541faa4102f2c4abe8e52996
 NeedsCompilation: no
