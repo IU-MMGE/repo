@@ -66,7 +66,7 @@ Depends: R (>= 2.10),
 Imports: DBI, odbc, RJDBC, magrittr, yaml, future, later, clisymbols,
         crayon, rstudioapi, readxl
 Suggests: testthat
-MD5sum: e3eeeff84f125aa6db5c3b8f65aec51f
+MD5sum: 54adb1d13a6de7117351d0482ea13211
 NeedsCompilation: no
 
 Package: ppmiverse
