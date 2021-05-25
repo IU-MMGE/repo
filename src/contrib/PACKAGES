@@ -12,7 +12,7 @@ Imports: IUGBAPI, mmgeCatalogsLite, mmge, mmgeLDAP, mmgeMongo, shiny,
         lubridate, markdown, plyr, mongolite, openxlsx, redcapAPI,
         crayon, clisymbols, debugR
 Suggests: knitr, rmarkdown
-MD5sum: 6e65799bea8b2d35ea0d044b2c0c6f76
+MD5sum: 7fca7dee87f2300fdc48c7a6c4217fb8
 NeedsCompilation: no
 
 Package: mmgeCatalogsLite
