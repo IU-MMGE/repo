@@ -25,12 +25,12 @@ MD5sum: 7a334d5ea978637a7aa595bf4f6d0c10
 NeedsCompilation: no
 
 Package: mmgeDistributions
-Version: 0.2.403
+Version: 0.2.404
 Imports: R6, dplyr, openxlsx, yaml, tidyr, glue, memoise, magrittr,
         future
 Suggests: knitr, rmarkdown
 License: GPL-3
-MD5sum: f44d675d6b5912c9b1e4715890b982c6
+MD5sum: 05ba121875c3755eeac3106909104524
 NeedsCompilation: no
 
 Package: mmgeInventory
